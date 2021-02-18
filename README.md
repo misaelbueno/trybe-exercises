@@ -4,4 +4,4 @@ Aprendizado até o momento:
 - Unix e Bash
 - Git e Github
 - HTML: estrutura da página
-- CSS:: primeiros passos
+- CSS: primeiros passos
