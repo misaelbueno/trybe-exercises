@@ -1,16 +1,3 @@
-/* section {
-    display: inline-block;
-} */
-
-article {
-    display: inline-block;
-    text-align: left;
-} 
-
-aside {
-    display: inline-block;  
-    text-align: right;
-    margin-left: 100px;
-
-    vertical-align: auto;
-} 
+#soco {
+    width: 300px;
+}
