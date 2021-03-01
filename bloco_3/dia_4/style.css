@@ -1,7 +1,22 @@
+body {
+    background-color: rgba(125, 179, 230, 0.993);
+}
+
+h1 {
+    font-family: 'RocknRoll One';
+}
+
+p {
+    font-family: 'Roboto Slab';
+}
+
+h2, h3 {
+    font-family: 'Krona One';
+}
+
 #soco {
     width: 300px;
 }
-
 
 article {
     width: 750px;
