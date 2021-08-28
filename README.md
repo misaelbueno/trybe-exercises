@@ -5,5 +5,6 @@ Aprendizado até o momento:
 - Git e Github
 - HTML: estrutura da página
 - CSS: primeiros passos
-- HTML e CSS: seletores e posicionamento
+- HTML e CSS: seletores e posicionamento                  
 - JavaScript: primeiros passos
+- Introdução ao NodeJS
