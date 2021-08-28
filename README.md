@@ -6,5 +6,6 @@ Aprendizado até o momento:
 - HTML: estrutura da página
 - CSS: primeiros passos
 - HTML e CSS: seletores e posicionamento                  
-- JavaScript: primeiros passos
+- JavaScript
+- React
 - Introdução ao NodeJS
